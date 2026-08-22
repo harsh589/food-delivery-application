@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+E:\food\.metadata\.plugins\org.eclipse.jdt.core
+2333726407.index
+2608146717.index
+3587706252.index
+1865797976.index
+1966967263.index
+2106984234.index
+2823145386.index

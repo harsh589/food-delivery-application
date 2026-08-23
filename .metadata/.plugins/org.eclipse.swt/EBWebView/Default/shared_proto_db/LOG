@@ -1,2 +1,3 @@
-2026/08/23-01:46:37.762 4880 Creating DB E:\food\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db since it was missing.
-2026/08/23-01:46:38.452 4880 Reusing MANIFEST E:\food\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2026/08/23-22:20:11.942 336c Reusing MANIFEST E:\food\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2026/08/23-22:20:11.943 336c Recovering log #3
+2026/08/23-22:20:11.944 336c Reusing old log E:\food\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/000003.log 

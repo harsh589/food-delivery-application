@@ -1,2 +1,3 @@
-2026/08/23-01:46:34.195 2ad4 Creating DB E:\food\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2026/08/23-01:46:35.798 2ad4 Reusing MANIFEST E:\food\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/08/23-22:20:11.908 336c Reusing MANIFEST E:\food\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/08/23-22:20:11.910 336c Recovering log #3
+2026/08/23-22:20:11.910 336c Reusing old log E:\food\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 

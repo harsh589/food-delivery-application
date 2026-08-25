@@ -14,5 +14,18 @@
     </libraryInfo>
     <libraryInfo home="C:\Program Files\Java\jdk-24" version="24.0.2"/>
     <libraryInfo home="E:\sts_new\sts-5.2.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.3.v20260502-0818\jre" version="25.0.3"/>
+    <libraryInfo home="C:\Program Files\Zulu\zulu-22" version="22.0.1"/>
     <libraryInfo home="C:\Users\harsh\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.10.7-hotspot" version="17.0.10"/>
+    <libraryInfo home="C:\HARSH-STUFFS\WORK\installation&amp;setup\spring-tool-suite-4-4.26.0.RELEASE-e4.33.0-win32.win32.x86_64\sts-4.26.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551" version="21.0.4">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\HARSH-STUFFS\WORK\installation&amp;setup\spring-tool-suite-4-4.26.0.RELEASE-e4.33.0-win32.win32.x86_64\sts-4.26.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre" version="21.0.4"/>
 </libraryInfos>

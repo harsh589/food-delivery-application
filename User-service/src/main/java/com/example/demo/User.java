@@ -3,7 +3,7 @@ package com.example.demo;
 import jakarta.persistence.*;
 
 @Entity
-@Table
+@Table(name="users")
 public class User {
 
     public enum Role {

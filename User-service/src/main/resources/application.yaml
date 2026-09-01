@@ -1,28 +1,34 @@
 server:
-  port: 3913
+  port: 8082
 
 spring:
   application:
-    name: user-service		
- 
-datasource:
- url: jdbc:postgresql://<YOUR_RDS_ENDPOINT>:5432/user_db
- username: postgres
- password: sdf
- driver-class-name: sfds
- 
-jpa:
- hibernate:
-  ddl-auto: update
- show-sql: true
- properties:
-  hibernate:
-   format_sql: true
+    name: user-service
+
+  datasource:
+    url: jdbc:postgresql://user-db.cg7c2884smuk.us-east-1.rds.amazonaws.com:5432/postgres
+    username: postgres
+    password: Barcelona9936047437
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+
+logging:
+  level:
+    org.springframework.security: DEBUG
+    org.hibernate.SQL: DEBUG
+    org.hibernate.type.descriptor.sql.BasicBinder: TRACE
 
 jwt:
- secret: mySuperSecretKeyForJwtTokenGenerationChangeThisInProduction123456
- expiration: 86400000
-
-springdoc:
- swagger-ui:
-  path: /swagger-ui.html	
+  secret: YOUR_VERY_LONG_RANDOM_SECRET_KEY_AT_LEAST_32_CHARS
+  expiration: 86400000

@@ -1,14 +1,14 @@
 server:
-  port: 4521
+  port: 5432
 
 spring:
   application:
     name: user-service
 
   datasource:
-    url: jdbc:postgresql://user-db.cg7c2884smuk.us-east-1.rds.amazonaws.com:5432/postgres
+    url: jdbc:postgresql://user-db2.cg7c2884smuk.us-east-1.rds.amazonaws.com:5432/postgres
     username: postgres
-    password: Barcelona9936047437
+    password: barcelonaaws
     driver-class-name: org.postgresql.Driver
 
   jpa:
